@@ -1,0 +1,65 @@
+[
+  {
+    "name": "outside",
+    "err": 0,
+    "id": "030697945264",
+    "val": 0,
+    "val_prev": 0,
+    "min": -30,
+    "max": 40
+  },
+  {
+    "name" : "corridor",
+    "err": 0,
+    "id": "0119523808ff",
+    "val": 0,
+    "val_prev": 0,
+    "min": 0,
+    "max": 35
+  },
+  {
+    "name" : "w_top",
+    "err": 0,
+    "id": "0119523d41ff",
+    "val": 0,
+    "val_prev": 0,
+    "min": 0,
+    "max": 45
+  },
+  {
+    "name" : "w_pipe",
+    "err" : 0,
+    "id": "0000054d7234",
+    "val": 0,
+    "val_prev": 0,
+    "min": 0,
+    "max": 40
+  },
+  {
+    "name" : "w_room1m",
+    "err" : 0,
+    "id": "01195242eaff",
+    "val": 0,
+    "val_prev": 0,
+    "min": 0,
+    "max": 40
+  },
+  {
+    "name" : "w_heater",
+    "err" : 0,
+    "id": "01195239e9ff",
+    "val": 0,
+    "val_prev": 0,
+    "min": 0,
+    "max": 60
+  },
+  {
+    "name" : "k_room1m",
+    "err": 0,
+    "id": "0119523b01ff",
+    "val": 0,
+    "val_prev": 0,
+    "min": 0,
+    "max": 40
+  }
+]
